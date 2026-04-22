@@ -1,4 +1,10 @@
-# Customer Segmentation in E-commerce
+# 🚀 Customer Segmentation in E-commerce
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Estado](https://img.shields.io/badge/Estado-Completado-brightgreen)
+![Licencia](https://img.shields.io/badge/Licencia-MIT-green)
+
+---
 
 Este proyecto presenta un **análisis de segmentación de clientes en ecommerce** a partir de variables agregadas de comportamiento, valor y sensibilidad al precio.
 
@@ -29,15 +35,16 @@ A partir de estas variables, el análisis sigue un enfoque estructurado que incl
 
 ## 📂 Estructura del repositorio
 
+```
 customer-segmentation-ecommerce
 │
 ├── data
 │   └── customers.csv
-│
 ├── notebooks
 │   └── customer_segmentation.ipynb
-│
-└── README.md
+├── README.md
+└── LICENSE
+```
 
 ---
 
