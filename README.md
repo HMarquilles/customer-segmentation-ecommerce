@@ -94,3 +94,7 @@ Este repositorio está pensado como:
 ## 📎 Nota final
 
 El foco del proyecto está en **la interpretación y el razonamiento**, priorizando la comprensión del comportamiento del cliente sobre la complejidad técnica del modelo.
+
+## 📄 License
+
+This project is licensed under the MIT License
